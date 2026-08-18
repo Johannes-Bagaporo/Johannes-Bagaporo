@@ -8,6 +8,7 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
 - 📫 How to reach me: <20220024994@my.xu.edu.ph>
+- Fun Fact: Cows dont stand up on their 2 legs because they lactose(lack toes).
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,qt,discord,eclipse,github,vscode-10)](https://skillicons.dev)
